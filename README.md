@@ -25,9 +25,9 @@
   ## Assets:
   ### The following image demonstrates the web application's appearance and functionality:
 
- ![Screenshot Note Taker](./Develop/public/assets/images/NoteTakerFirstScreen.PNG)
+ ![Screenshot Note Taker](./public/assets/images/NoteTakerFirstScreen.PNG)
 
- ![Screenshot Note Taker](./Develop/public/assets/images/NoteTakerPic.PNG)
+ ![Screenshot Note Taker](./public/assets/images/NoteTakerPic.PNG)
 
   ### Link for application  
 
