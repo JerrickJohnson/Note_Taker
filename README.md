@@ -1,4 +1,4 @@
-# Note Taker 
+  # Note Taker 
 
 
 
@@ -45,6 +45,3 @@
   ### GitHub: https://github.com/JerrickJohnson
   ### or
   ### Email: jerrickjohnson88@gmail.com
-Node.js command-line application that takes user input to generate a logo and save it as an SVG file
-=======
->>>>>>> 555c9df71dec3753b08b7f5ef2d72376f70bbab4

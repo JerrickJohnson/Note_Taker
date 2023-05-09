@@ -1,25 +1,18 @@
 {
-  "name": "note-taker",
+  "name": "develop",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": {"start": "http-server"}
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JerrickJohnson/Note_Taker.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JerrickJohnson/Note_Taker/issues"
+  "devDependencies": {
+    "http-server": "^14.1.1"
   },
-  "homepage": "https://github.com/JerrickJohnson/Note_Taker#readme",
   "dependencies": {
-    "uuid": "^9.0.0"
-  },
-  "devDependencies": {}
+    "express": "^4.18.2"
+  }
 }
