@@ -13,6 +13,16 @@
     "http-server": "^14.1.1"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerrickJohnson/Note_Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JerrickJohnson/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/JerrickJohnson/Note_Taker#readme"
 }
